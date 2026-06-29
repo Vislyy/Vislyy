@@ -10,7 +10,7 @@ I'm a developer from Ukraine 🇺🇦, writing code for the backend, automating 
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
 ![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=flat-square)
 
-*My go-to tools. Building async backends, Telegram bots, parsers, and designing databases.*
+*My go-to tools. Building async backends, Telegram bots, parsers, automation scripts, and designing databases.*
 
 **🔵 Currently exploring:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
