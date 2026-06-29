@@ -1,4 +1,4 @@
-# Hey, I'm Vlad 👋
+# Hey, I'm Maks 👋
 
 I'm a versatile backend & full-stack developer from Ukraine 🇺🇦  
 I build complex architectures, automate the boring stuff, and expand my tech stack to solve bigger problems.
