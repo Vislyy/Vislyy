@@ -1,51 +1,78 @@
 # Hey, I'm Maks 👋
 
-I'm a developer from Ukraine 🇺🇦, writing code for the backend, automating stuff, and sometimes making Minecraft mods.
+I'm a developer from Ukraine 🇺🇦, mostly working with Python, backend development, automation, and developer tooling.
 
-### 🛠️ What I work with
+I like building things from the ground up, experimenting with how software works under the hood, and gradually getting into systems programming.
 
-**🟢 Main stack (3 years):**
+### 🛠️ Tech Stack
+
+**🟢 Main stack:**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
-![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=flat-square)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 
-*My go-to tools. Building async backends, Telegram bots, parsers, automation scripts, and designing databases.*
+Python is my main language. I use it for backend development, async applications, parsers, automation, APIs, and developer tools.
 
 **🔵 Currently exploring:**
-**🔵 Currently exploring:**
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-- **JS (1+ year):** Learning frontend to connect it with my Python backends.
-- **Java (In progress):** Using Forge & NeoForge API for Minecraft modding. 
-- **C++ (In progress):** Just diving deeper into how things work under the hood.
-- **Rust (1 Month):** Exploring systems programming and low-level concepts through a voice changer project.
+- **Rust:** Learning systems programming while working on a real-time voice changer.
+- **JavaScript:** Going beyond basic frontend usage and learning more about runtimes, DOMs, and browser internals.
+- **Java:** Mostly using it for Minecraft modding with Forge and NeoForge.
+- **C++:** Exploring lower-level programming, memory management, and how things work closer to the system.
 
-**⚙️ Tools:**
+**⚙️ Tools & technologies:**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### 🚀 Featured Project
+### 🚀 What I'm building
 
-#### [PriceMonitorBot-Remake](https://github.com/Vislyy/PriceMonitorBot-Remake)
-A rebuilt version of my old price monitoring bot. Tracks new ads on OLX and price drops on E-katalog. 
-Wrote it from scratch to fix the old architecture: async parsing, SQLAlchemy 2.0, PostgreSQL, and cleaner code separation.
+#### 🌐 Phantom Curl
+
+A Python HTTP library experimenting with JavaScript execution and a browser-like DOM environment without running a full browser.
+
+The project combines an HTTP engine with a JavaScript runtime and DOM implementation, with the goal of supporting script execution, dynamic scripts, DOM manipulation, navigation, and other browser-like behavior.
+
+It's my main project for experimenting with software architecture and learning more about HTTP, JavaScript runtimes, DOMs, and how browsers work internally.
+
+#### 🎙️ VoxMosaic
+
+An experimental real-time voice changer written in Rust.
+
+I'm building it both as a real project and as a way to learn Rust while exploring audio processing, performance, concurrency, and systems programming.
 
 ---
 
-### 🎯 Right now I'm focused on
-- Mastering FastAPI and deploying projects with Docker
-- Improving my Java skills through modding
-- Writing cleaner and more maintainable code
+### 🧠 What I'm learning right now
+
+I'm currently focused on:
+
+- Writing cleaner and more maintainable software architecture
+- Getting deeper into async and concurrent programming
+- Understanding JavaScript runtimes, DOMs, and browser internals
+- Learning Rust through real projects
+- Improving my understanding of lower-level programming
+- Relying less on AI-generated code and improving my own problem-solving skills
 
 ---
 
-### 📊 My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Vislyy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vislyy&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+### 💡 Things I enjoy building
+
+`Backend` · `Automation` · `Developer Tools` · `Parsers` · `HTTP` · `JavaScript Runtimes` · `Browser Internals` · `Systems Programming` · `Minecraft Modding`
+
+---
+
+### 📫 Find me here
+
+[![GitHub](https://img.shields.io/badge/GitHub-Vislyy-181717?style=for-the-badge&logo=github)](https://github.com/Vislyy)
