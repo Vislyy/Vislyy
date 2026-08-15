@@ -13,13 +13,16 @@ I'm a developer from Ukraine 🇺🇦, writing code for the backend, automating 
 *My go-to tools. Building async backends, Telegram bots, parsers, automation scripts, and designing databases.*
 
 **🔵 Currently exploring:**
+**🔵 Currently exploring:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 - **JS (1+ year):** Learning frontend to connect it with my Python backends.
 - **Java (In progress):** Using Forge & NeoForge API for Minecraft modding. 
 - **C++ (In progress):** Just diving deeper into how things work under the hood.
+- **Rust (1 Month):** Exploring systems programming and low-level concepts through a voice changer project.
 
 **⚙️ Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
